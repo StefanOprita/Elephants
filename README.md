@@ -1,1 +1,1 @@
-# LabyrinthBoardgame
+# Elephants
